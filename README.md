@@ -1,7 +1,5 @@
 # Sentiment-analysis-using-Pytorch
 
-## BERT Sentiment Analysis
-
 This project implements sentiment analysis using BERT (Bidirectional Encoder Representations from Transformers) with PyTorch. The model is trained and evaluated on a sentiment classification dataset.
 
 ### Requirements
